@@ -1,4 +1,5 @@
-![Bank Network](https://user-images.githubusercontent.com/72334419/235212028-7ee2b9de-01aa-438f-bbb0-224ba0d5067e.png)
+![Bank Network](https://user-images.githubusercontent.com/72334419/235219042-f107bffb-61f6-4264-a976-d0abd8c58f84.png)
+
 # Banking Network in Packet Tracer
 
 The Government has secured a four-story building for operating Bank within the Valsad City, India.

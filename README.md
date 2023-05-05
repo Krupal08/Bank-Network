@@ -56,3 +56,10 @@ The Government has secured a four-story building for operating Bank within the V
 - Configuring WLAN or wireless network (Cisco Access Point).
 - Host Device Configurations.
 - Test and Verifying Network Communication.
+
+<n><b>#Configuration Files</b></n>
+[Banking_Network_Floor1_Config.odt](https://github.com/Krupal08/Bank-Network/files/11404034/Banking_Network_Floor1_Config.odt)
+[Banking_Network_Floor2_Config.odt](https://github.com/Krupal08/Bank-Network/files/11404035/Banking_Network_Floor2_Config.odt)
+[Banking_Network_Floor3_Config.odt](https://github.com/Krupal08/Bank-Network/files/11404036/Banking_Network_Floor3_Config.odt)
+[Banking_Network_Floor4_Config.odt](https://github.com/Krupal08/Bank-Network/files/11404037/Banking_Network_Floor4_Config.odt)
+
